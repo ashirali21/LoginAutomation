@@ -1,0 +1,1 @@
+{"uuid":"dd29d6d0-db15-4091-846d-49b32a5afc6c","name":"com.ashir.tests.LoginTest","children":["17831f34-70e0-470c-ba52-a7547b784741"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1772936238719,"stop":1772936241689}],"afters":[],"start":1772936238658,"stop":1772936272192}
